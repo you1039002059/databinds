@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SMTask</string>
+
+    <!--Error String-->
+
+    <string name="connectWifiDataConn">Please connect to your Wifi or Data Connection..</string>
+    <string name="timeOut">timeOut</string>
+    <string name="socketTimeOut">Socket Time out. Please try again.</string>
+
+    <!--Data String-->
+
+    <string name="loading">Loading</string>
+
+    <!--Get request Params-->
+
+    <string name="titleParams">ANNOUNCEMENT_TITLE</string>
+    <string name="imageParams">ANNOUNCEMENT_IMAGE</string>
+    <string name="htmlTxtParams">ANNOUNCEMENT_HTML</string>
+    <string name="valueParams">Value</string>
+
+    <!--Test content Title String-->
+
+    <string name="testContentTitle">Abu Dhabi Police Licensing Department Offers Services at Emirates Motor Company (EMC)</string>
+
+</resources>
